@@ -3,6 +3,7 @@ module.exports = {
   env: {
     node: true
   },
+  // 使用插件的编码规则
   extends: [
     'plugin:vue/essential',
     '@vue/standard',
